@@ -2,6 +2,7 @@
   - [install docker if not availble](#install_docker_if_not_availble)
   - [run the service](#run_the_service)
   - [access the interface and fill the form](#access_the_interface_and_fill_the_form)
+  - [docker images clean up](#docker_images_clean_up)
 
 ### install_docker_if_not_availble
 
