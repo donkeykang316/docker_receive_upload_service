@@ -1,3 +1,6 @@
+## Service Description
+A simple RESTful service that accepts a Dockerfile from the user. The service builds a Docker image out of the Dockerfile and pushes it to a Docker registry.
+
 ## Steps to run the service
   - [install docker if not availble](#install_docker_if_not_availble)
   - [run the service](#run_the_service)
